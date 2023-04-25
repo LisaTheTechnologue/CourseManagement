@@ -1,0 +1,13 @@
+.header {
+    margin: 25px 50px;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
